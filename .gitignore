@@ -14,3 +14,4 @@ build/
 *.sdf
 Debug/
 Release/
+/proj/cmake/Cinder-OpenCVConfig.cmake
